@@ -25,3 +25,19 @@ In this worksheet, we deal with a dataset consisting 100 rows and 24 columns. Th
 - **Transportation Modes** : The transportation mode used to send products, such as land, sea or air.
 - **Routes** : Routes or paths used to send products from one point to another in the supply chain.
 - **Costs** : Costs related to various aspects of the supply chain, including transportation costs, production costs, and other costs.
+
+<!--------------------------------------- 00 ------------------------------------------->
+<h4 id="q01"> Product Analysis </h4>
+
+## <!-- Horizontal Line --> ## 
+
+![image for transportation](images/product.PNG)
+
+![image for transportation](images/producttype.PNG)
+
+<!--------------------------------------- 00 ------------------------------------------->
+<h4 id="q01"> Transportation Modes and Routes Analysis </h4>
+
+## <!-- Horizontal Line --> ## 
+
+![image for transportation](images/transportation.PNG)

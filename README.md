@@ -1,5 +1,5 @@
 # Supply-Chain-Analysis-using-Spreadsheet
-In this worksheet, we work with a dataset containing 100 rows and 24 columns, based on the supply chain of makeup products. I used Excel to process and analyze the data. Below are all the features in the dataset:
+In this worksheet, we work with a dataset containing 100 rows and 24 columns, based on the supply chain of makeup products. The data was sourced from [Kaggle](https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis?resource=download&select=supply_chain_data.csv). I used Excel to process and analyze the data. Below are all the features in the dataset:
 
 - **Product Type** : The type of product associated with specific data in the supply chain.
 - **SKU (Stock Keeping Unit)** : Unique code used to identify a particular product.
